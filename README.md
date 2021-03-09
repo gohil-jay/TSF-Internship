@@ -1,6 +1,8 @@
 # TSF-Internship
 This repository consists of my work pertaining to 'Data Science &amp; Business Analytics Internship' at The Sparks Foundation.
 
+![Completion Certificate](https://raw.githubusercontent.com/gohil-jay/TSF-Internship/main/DataScience-TSF-Internship-Certificate.png)
+
 # Correlation matrix (for features) -->
 ![Correlation Matrix](https://raw.githubusercontent.com/gohil-jay/TSF-Internship/main/Task-6/img/corr_matrix.png)
 
